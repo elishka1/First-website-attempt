@@ -16,3 +16,8 @@
 .myButtons{
     margin-left: 30px;
 }
+
+.myPic {
+    max-height: 400px;
+    margin: 20px;
+}
