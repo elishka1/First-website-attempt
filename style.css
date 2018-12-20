@@ -1,14 +1,18 @@
 .title{
-    color:royalblue;
+    color:deeppink;
 }
 
 .desc{
-    color:royalblue;
+    color:deeppink;
 }
 .navbar-brand{
-    color:white;
+    color:deeppink !important;
 }
 
 .nav-link{
     color:white;
+}
+
+.myButtons{
+    margin-left: 30px;
 }
